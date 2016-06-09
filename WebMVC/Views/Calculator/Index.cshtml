@@ -1,0 +1,109 @@
+﻿@model BusinessModule.Model.CalculatedSequence
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" type="text/css" href="~/css/nomads.css">
+    <title>Calculator</title>
+</head>
+<body>
+    <div style="padding: 2%">
+        <h4>Calculate Sequence</h4>
+        <hr />
+              <form method="post" action="~/Calculator/Details">
+                  <input type="number" id="number" value="" name="number" max="99999" required min="1" maxlength="5">
+                  <input type="submit" value="Submit" />
+                  @Html.ActionLink("Clear", "Clean", "Calculator", null)
+                </form>
+        <dl class="dl-horizontal">
+        </dl>
+    </div>
+    <p>
+        @if (Model != null)
+        {
+            <div class="column">
+                All numbers<br>
+                @try
+                {
+                    foreach (var number in Model.AllSequence)
+                    {
+                        @number <br>
+                    }
+                }catch (OutOfMemoryException ex)
+                {
+
+                }
+            </div>
+            <div class="column">
+                Even numbers<br>
+                @try
+                {
+                    foreach (var number in Model.EvenSequence)
+                    {
+                            @number <br>
+                    }
+                }catch (OutOfMemoryException ex)
+                {
+
+                }
+            </div>
+
+            <div class="column">
+                Odd numbers<br>
+                @try
+                { 
+                    foreach (var number in Model.OddSequence)
+                    { 
+                        @number <br>
+                    }
+                }catch (OutOfMemoryException ex)
+                {
+
+                }
+            </div>
+
+            <div class="column">
+                Formated list<br>
+                @try
+                {
+                    foreach (var number in Model.AllSequence)
+                    {
+                        if (Model.ReplacedSequence.ContainsKey(number))
+                        {
+                            @Model.ReplacedSequence[number] <br>
+                        }
+                        else
+                        {  
+                            @number  <br>
+                        }
+                    }
+                }catch (OutOfMemoryException ex)
+                {
+
+                }
+            </div>
+
+            <div class="column">
+                Fibonacci list<br>
+                @try
+                {
+                    foreach (var number in Model.FibonacciSequence)
+                    {
+                        @number <br>
+                    }
+                }
+                catch (OutOfMemoryException ex)
+                {
+
+                }
+            </div>
+        }
+    </p>
+</body>
+</html>

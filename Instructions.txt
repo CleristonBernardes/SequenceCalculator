@@ -1,0 +1,10 @@
+The Sequence Calculator is an app offering the facility to calculate sequences.
+
+Calculate a sequence is very easy:
+1 - Fill the input with a valid positive integer number.
+2 - Press enter or click on submit.
+
+That's it! The page will be rendered with 5 sequences: All numbers, Even number, Odd number, Replaced list and Fibonacci list.
+Ah! You can also clear the data on scree just clicking on "Clear" link.
+
+Let's play!

@@ -1,0 +1,28 @@
+D:\Desenvolvimento\CampaignMonitor\For_Applicants_v3.4_LATEST\For Applicants v3.4\CampaingMonitorTestAssessment\TestModule\bin\Debug\TestModule.dll
+D:\Desenvolvimento\CampaignMonitor\For_Applicants_v3.4_LATEST\For Applicants v3.4\CampaingMonitorTestAssessment\TestModule\bin\Debug\TestModule.pdb
+D:\Desenvolvimento\CampaignMonitor\For_Applicants_v3.4_LATEST\For Applicants v3.4\CampaingMonitorTestAssessment\TestModule\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Desenvolvimento\CampaignMonitor\For_Applicants_v3.4_LATEST\For Applicants v3.4\CampaingMonitorTestAssessment\TestModule\obj\Debug\TestModule.csprojResolveAssemblyReference.cache
+D:\Desenvolvimento\CampaignMonitor\For_Applicants_v3.4_LATEST\For Applicants v3.4\CampaingMonitorTestAssessment\TestModule\obj\Debug\TestModule.dll
+D:\Desenvolvimento\CampaignMonitor\For_Applicants_v3.4_LATEST\For Applicants v3.4\CampaingMonitorTestAssessment\TestModule\obj\Debug\TestModule.pdb
+D:\Desenvolvimento\CampaignMonitor\For_Applicants_v3.4_LATEST\For Applicants v3.4\CampaingMonitorTestAssessment\TestModule\bin\Debug\BusinessModule.dll
+D:\Desenvolvimento\CampaignMonitor\For_Applicants_v3.4_LATEST\For Applicants v3.4\CampaingMonitorTestAssessment\TestModule\bin\Debug\BusinessModule.pdb
+D:\Desenvolvimento\CampaignMonitor\For_Applicants_v3.4_LATEST\For Applicants v3.4\CampaingMonitorTestAssessment\TestModule\bin\Debug\FluentAssertions.Core.dll
+D:\Desenvolvimento\CampaignMonitor\For_Applicants_v3.4_LATEST\For Applicants v3.4\CampaingMonitorTestAssessment\TestModule\bin\Debug\FluentAssertions.dll
+D:\Desenvolvimento\CampaignMonitor\For_Applicants_v3.4_LATEST\For Applicants v3.4\CampaingMonitorTestAssessment\TestModule\bin\Debug\FluentAssertions.pdb
+D:\Desenvolvimento\CampaignMonitor\For_Applicants_v3.4_LATEST\For Applicants v3.4\CampaingMonitorTestAssessment\TestModule\bin\Debug\FluentAssertions.xml
+D:\Desenvolvimento\CampaignMonitor\For_Applicants_v3.4_LATEST\For Applicants v3.4\CampaingMonitorTestAssessment\TestModule\bin\Debug\FluentAssertions.Core.pdb
+D:\Desenvolvimento\CampaignMonitor\For_Applicants_v3.4_LATEST\For Applicants v3.4\CampaingMonitorTestAssessment\TestModule\bin\Debug\FluentAssertions.Core.xml
+D:\Desenvolvimento\WorldNomads\WorldNomadsTestAssessment\TestModule\obj\Debug\TestModule.csprojResolveAssemblyReference.cache
+D:\Desenvolvimento\WorldNomads\WorldNomadsTestAssessment\TestModule\obj\Debug\TestModule.dll
+D:\Desenvolvimento\WorldNomads\WorldNomadsTestAssessment\TestModule\obj\Debug\TestModule.pdb
+D:\Desenvolvimento\WorldNomads\WorldNomadsTestAssessment\TestModule\bin\Debug\TestModule.dll
+D:\Desenvolvimento\WorldNomads\WorldNomadsTestAssessment\TestModule\bin\Debug\TestModule.pdb
+D:\Desenvolvimento\WorldNomads\WorldNomadsTestAssessment\TestModule\bin\Debug\BusinessModule.dll
+D:\Desenvolvimento\WorldNomads\WorldNomadsTestAssessment\TestModule\bin\Debug\FluentAssertions.Core.dll
+D:\Desenvolvimento\WorldNomads\WorldNomadsTestAssessment\TestModule\bin\Debug\FluentAssertions.dll
+D:\Desenvolvimento\WorldNomads\WorldNomadsTestAssessment\TestModule\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Desenvolvimento\WorldNomads\WorldNomadsTestAssessment\TestModule\bin\Debug\BusinessModule.pdb
+D:\Desenvolvimento\WorldNomads\WorldNomadsTestAssessment\TestModule\bin\Debug\FluentAssertions.pdb
+D:\Desenvolvimento\WorldNomads\WorldNomadsTestAssessment\TestModule\bin\Debug\FluentAssertions.xml
+D:\Desenvolvimento\WorldNomads\WorldNomadsTestAssessment\TestModule\bin\Debug\FluentAssertions.Core.pdb
+D:\Desenvolvimento\WorldNomads\WorldNomadsTestAssessment\TestModule\bin\Debug\FluentAssertions.Core.xml

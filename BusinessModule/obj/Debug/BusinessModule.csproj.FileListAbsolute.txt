@@ -1,0 +1,5 @@
+D:\Desenvolvimento\WorldNomads\WorldNomadsTestAssessment\BusinessModule\obj\Debug\BusinessModule.csprojResolveAssemblyReference.cache
+D:\Desenvolvimento\WorldNomads\WorldNomadsTestAssessment\BusinessModule\bin\Debug\BusinessModule.dll
+D:\Desenvolvimento\WorldNomads\WorldNomadsTestAssessment\BusinessModule\bin\Debug\BusinessModule.pdb
+D:\Desenvolvimento\WorldNomads\WorldNomadsTestAssessment\BusinessModule\obj\Debug\BusinessModule.dll
+D:\Desenvolvimento\WorldNomads\WorldNomadsTestAssessment\BusinessModule\obj\Debug\BusinessModule.pdb
